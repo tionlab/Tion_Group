@@ -33,3 +33,5 @@
 
 #### 이걸 하라고요? (배우곤 싶으나 귀찮음)
 [![왜 이걸 나한테?](https://skillicons.dev/icons?i=cs,linux,raspberrypi,ruby,go,wordpress)](about:black)
+
+
