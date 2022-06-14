@@ -11,7 +11,9 @@
 
 
 👨‍💻 웹, 소프트웨어 개발진
-👨‍🎓 고등학교에서 공부 중  
+👨‍🎓 고등학교에서 공부 중 
+
+
 🚧 **현재 작업중:** 
 [TionGroup(메인사이트), TionLab(메인사이트), TionStudyer(공부연구 사이트), (NoName)Shopping(외주), POST AND POST!(외주)](about:blank)
 
