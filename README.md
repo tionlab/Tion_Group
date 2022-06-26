@@ -5,16 +5,6 @@
 
 ### Hi there We are Tion Group, And I'm leader Tation.
 
-<br> 
-  
- <p align="center"> 
-   <a href="https://discord.gg/HhHpTWsTtB" target="_blank"> 
-     <img src="https://img.shields.io/discord/934876439600332831?style=flat&colorA=000000&colorB=000000&label=discord&logo=discord&logoColor=ffffff" alt="Chat on Discord"> 
-   </a> 
- </p> 
-  
- <br>
-
    [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/ming_tion)
    [![tionlab01@gmail.com](https://img.shields.io/static/v1?label=admin@cstef.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:tionlab01@gmail.com)  
   
