@@ -15,7 +15,7 @@
 
 🚧 **현재 작업중:** 
 
-[TionGroup(메인사이트), TionLab(메인사이트), TionStudyer(공부연구 사이트), (NoName)Shopping(외주), POST AND POST!(외주)](about:blank)
+[TionGroup(메인사이트), TionLab(메인사이트), TionStudy(공부연구 사이트)](about:blank)
 
 
 #### 이건 당연히 하죠
