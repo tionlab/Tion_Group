@@ -1,6 +1,4 @@
 # Tion_Group
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tionlab&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tionlab&layout=compact&title_color=606060&text_color=606060&bg_color=00000000&theme=dark&hide_border=true">
     
 
 ### Hi there We are Tion Group, And I'm leader Tation.
