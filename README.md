@@ -26,4 +26,8 @@
 #### 맡기지 마세요.
 [![왜 이걸 나한테?](https://skillicons.dev/icons?i=cs,cpp,raspberrypi,ruby,c,wordpress)](about:black)
 
+![tionlab's GitHub stats](https://github-readme-stats.vercel.app/api?username=tionlab&count_private=true&theme=radical)<br>
+![tionlab's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tionlab&langs_count=8&layout=compact&theme=radical)
+
+
 
