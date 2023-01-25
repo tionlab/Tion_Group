@@ -27,7 +27,7 @@
 
 ## 스탯
 ![tionlab's GitHub stats](https://github-readme-stats.vercel.app/api?username=tionlab&count_private=true&theme=radical)<br>
-![tionlab's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tionlab&langs_count=8&layout=compact&theme=tokyonight)
+![tionlab's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tionlab&langs_count=8&layout=compact&theme=radical)
 
 
 
