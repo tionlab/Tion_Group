@@ -1,10 +1,10 @@
 # ✨ Tion_Group ✨  
 ## 🔮Unleashing Power of Creation
-[![...](https://i.ibb.co/5LtwJQm/led.jpg)](about:black)
    [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/not._.tion)
    [![tionlab01@gmail.com](https://img.shields.io/static/v1?label=tionlab01@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:tionlab01@gmail.com)  
    [![tionlab02@gmail.com](https://img.shields.io/static/v1?label=tionlab02@gmail.com&message=%20&color=yellow&logo=gmail&style=flat-square&logoColor=white)](mailto:tionlab02@gmail.com)  
    [![tionlab03@gmail.com](https://img.shields.io/static/v1?label=tionlab03@gmail.com&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:tionlab03@gmail.com)  
+[![...](https://i.ibb.co/5LtwJQm/led.jpg)](about:black)
 
 👨‍💻 웹, 소프트웨어 개발진
 👨‍🎓 (인문계)고등학교에서 공부 중 
