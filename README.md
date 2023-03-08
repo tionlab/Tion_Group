@@ -1,7 +1,5 @@
-# Tion_Group
-    
-
-### Unleashing Power of Creation
+# ✨ Tion_Group ✨  
+## Unleashing Power of Creation
 
    [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/not._.tion)
    [![tionlab01@gmail.com](https://img.shields.io/static/v1?label=tionlab01@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:tionlab01@gmail.com)  
