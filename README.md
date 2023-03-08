@@ -6,6 +6,7 @@
    [![tionlab02@gmail.com](https://img.shields.io/static/v1?label=tionlab02@gmail.com&message=%20&color=yellow&logo=gmail&style=flat-square&logoColor=white)](mailto:tionlab02@gmail.com)  
    [![tionlab03@gmail.com](https://img.shields.io/static/v1?label=tionlab03@gmail.com&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:tionlab03@gmail.com)  
   
+[![](https://i.ibb.co/5LtwJQm/led.jpg)]
 
 👨‍💻 웹, 소프트웨어 개발진
 👨‍🎓 (인문계)고등학교에서 공부 중 
