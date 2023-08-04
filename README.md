@@ -7,11 +7,6 @@
 
 👨‍💻 웹, 소프트웨어 개발진
 
-🚧 **작업 연기 됨:** 
-
-TionGroup, TionLab
-
-
 #### 기본 능력
 [![이정도는 기본이지](https://skillicons.dev/icons?i=vscode,js,react,html,css,arduino,ae,discord,bots,git,github,heroku,instagram,md,mongodb,netlify,nodejs,ps,powershell)](about:black)
 [![귀찮네...](https://skillicons.dev/icons?i=au,blender,ai,py,ts)](about:black)
