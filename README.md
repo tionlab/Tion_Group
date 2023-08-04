@@ -6,18 +6,21 @@
 [![...](https://i.ibb.co/5LtwJQm/led.jpg)](about:black)
 
 👨‍💻 웹, 소프트웨어 개발진
+✨ 많이 바빠요
+🔒 오픈소스 공개 잘 안해요
+📦 외주는 이메일 문의 바랍니다!
 
 #### 기본 능력
 [![이정도는 기본이지](https://skillicons.dev/icons?i=vscode,js,react,html,css,arduino,ae,discord,bots,git,github,heroku,instagram,md,mongodb,netlify,nodejs,ps,powershell)](about:black)
-[![귀찮네...](https://skillicons.dev/icons?i=au,blender,ai,py,ts)](about:black)
+[![귀찮네...](https://skillicons.dev/icons?i=au,blender,ai,py,ts,linux)](about:black)
 
-#### 대충 훑어 보는중...
-[![굳이?](https://skillicons.dev/icons?i=linux,go)](about:black)
+#### 학습 예정
+[![굳이?](https://skillicons.dev/icons?i=,go,ruby)](about:black)
 
-#### 맡기지 마세요.
-[![왜 이걸 나한테?](https://skillicons.dev/icons?i=cs,cpp,raspberrypi,ruby,c,wordpress)](about:black)
+#### 사용 절대 X
+[![왜 이걸 나한테?](https://skillicons.dev/icons?i=cs,cpp,raspberrypi,c,wordpress)](about:black)
 
-## 스탯
+## 스탯 (오픈소스 한정 데이터)
 ![tionlab's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tionlab&langs_count=8&layout=compact&theme=radical)
 
 
