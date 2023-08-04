@@ -9,7 +9,7 @@
 
 🚧 **작업 연기 됨:** 
 
-[TionGroup(메인로비), TionLab(메인로비), TionStudy(공부연구 페이지)](about:blank)
+TionGroup, TionLab
 
 
 #### 기본 능력
