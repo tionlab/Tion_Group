@@ -6,7 +6,6 @@
 [![...](https://i.ibb.co/5LtwJQm/led.jpg)](about:black)
 
 👨‍💻 웹, 소프트웨어 개발진
-👨‍🎓 (인문계)고등학교에서 공부 중 
 
 🚧 **작업 연기 됨:** 
 
@@ -24,7 +23,6 @@
 [![왜 이걸 나한테?](https://skillicons.dev/icons?i=cs,cpp,raspberrypi,ruby,c,wordpress)](about:black)
 
 ## 스탯
-![tionlab's GitHub stats](https://github-readme-stats.vercel.app/api?username=tionlab&count_private=true&theme=radical)<br>
 ![tionlab's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tionlab&langs_count=8&layout=compact&theme=radical)
 
 
