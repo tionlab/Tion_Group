@@ -14,7 +14,7 @@
 [![귀찮네...](https://skillicons.dev/icons?i=au,blender,ai,py,ts,linux)](about:black)
 
 #### 학습 예정
-[![굳이?](https://skillicons.dev/icons?i=,go,ruby)](about:black)
+[![굳이?](https://skillicons.dev/icons?i=go,ruby)](about:black)
 
 #### 사용 절대 X
 [![왜 이걸 나한테?](https://skillicons.dev/icons?i=cs,cpp,raspberrypi,c,wordpress)](about:black)
