@@ -4,7 +4,7 @@
    [![tionlab02@gmail.com](https://img.shields.io/static/v1?label=tionlab02@gmail.com&message=%20&color=yellow&logo=gmail&style=flat-square&logoColor=white)](mailto:tionlab02@gmail.com)  
 [![...](https://i.ibb.co/5LtwJQm/led.jpg)](about:black)
 
-👨‍💻 웹, 소프트웨어 개발진 & 모의해킹 화이트 해커 & 영상 편집자 & 모션 그래픽 영상 제작자
+👨‍💻 웹, 소프트웨어 개발진 & 웹모의해킹 화이트 해커 & 영상 편집자 & 모션 그래픽 영상 제작자
 ✨ 많이 바빠요
 🔒 오픈소스 공개 잘 안해요
 📦 외주는 이메일 문의 바랍니다!
