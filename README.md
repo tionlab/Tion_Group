@@ -37,18 +37,18 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://tion-stats.vercel.app/api?username=tionlab&rank_icon=github&include_all_commits=true&theme=github_dark&locale=kr&hide_border=true" alt="tionlab's github stats">
+      <img src="https://tion-stats.vercel.app/api?username=tionlab&rank_icon=github&include_all_commits=true&theme=github_dark&locale=kr&hide_border=true&v=1.2" alt="tionlab's github stats">
     </td>
     <td align="center">
-      <img src="https://tion-stats.vercel.app/api/top-langs/?username=tionlab&langs_count=10&layout=compact&theme=github_dark&locale=kr&hide_border=true" alt="tionlab's language stats">
+      <img src="https://tion-stats.vercel.app/api/top-langs/?username=tionlab&langs_count=10&layout=compact&theme=github_dark&locale=kr&hide_border=true&v=1.2" alt="tionlab's language stats">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tionlab?v=1.2&theme=github-dark-blue&hide_border=true&locale=ko&mode=weekly" alt="tionlab's streak stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tionlab&theme=github-dark-blue&hide_border=true&locale=ko&mode=weekly" alt="tionlab's streak stats">
     </td>
     <td align="center">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pkfzjfbpug2o5p4ri6o42desvm?v=1.2&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="tionlab's Spotify profile">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pkfzjfbpug2o5p4ri6o42desvm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="tionlab's Spotify profile">
     </td>
   </tr>
   <tr>
