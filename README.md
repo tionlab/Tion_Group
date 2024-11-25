@@ -14,22 +14,22 @@
 </p>
 
 #### 사용 언어
-> Python / Javascript / Arduino / C / Go / Git
+> $\bf{\color{#7081ff}Python\ /\ Javascript\ /\ Arduino\ /\ C\ /\ Go\ /\ Git}$
 
 ![사용 언어](https://skillicons.dev/icons?i=py,flask,selenium,opencv,qt,tensorflow,js,ts,nodejs,react,nextjs,tailwind,firebase,express,mongodb,discordjs,html,css,electron,arduino,c,go,git,md,regex&perline=6)
 
 #### 사용 툴 / OS
-> Vscode / Docker / Npm / Bun / Ubuntu / Raspberrypi
+> $\bf{\color{#7081ff}Vscode\ /\ Docker\ /\ Npm\ /\ Bun\ /\ Ubuntu\ /\ Raspberrypi}$
 
 ![사용 툴](https://skillicons.dev/icons?i=vscode,docker,github,anaconda,npm,bun,bash,powershell,ubuntu,raspberrypi,windows,heroku,netlify,replit,vercel,blender,ae,ps,pr,notion&perline=7)
 
 #### 학습 중
-> Java / Kotlin / Rust
+> $\bf{\color{#70b3ff}Java\ /\ Kotlin\ /\ Rust}$
 
 ![학습 예정](https://skillicons.dev/icons?i=java,spring,kotlin,rust)
 
 #### 학습 예정
-> Ruby / Android Studio / Svelte / Three.js / Unreal
+> $\bf{\color{#70eeff}Ruby\ /\ Android\ Studio\ /\ Svelte\ /\ Three.js\ /\ Unreal}$
 
 ![학습 예정](https://skillicons.dev/icons?i=ruby,androidstudio,svelte,threejs,unreal)
 
