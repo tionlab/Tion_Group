@@ -33,7 +33,7 @@
 
 [![학습 예정](https://skillicons.dev/icons?i=ruby,androidstudio,svelte,threejs,unreal)](about:black)
 
-------
+<hr/>
 <table align="center">
   <tr>
     <td align="center">
@@ -62,8 +62,7 @@
     </td>
   </tr>
 </table>
-------
-
+<hr/>
 <p align="center">
   <img src="assets/with.png" width="250" />
   <br/>
