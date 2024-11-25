@@ -48,7 +48,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=tionlab&theme=github-dark-blue&hide_border=true&locale=ko&mode=weekly" alt="tionlab's streak stats">
     </td>
     <td align="center">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pkfzjfbpug2o5p4ri6o42desvm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="tionlab's Spotify profile">
+      <img src="https://svg-banners.vercel.app/api?type=luminance&text1=✨%20Tionlab&width=300&height=150" alt="✨ Tionlab">
     </td>
   </tr>
   <tr>
@@ -57,8 +57,8 @@
          <img src="http://invidget.switchblade.xyz/k3qm6RbpHc" alt="Discord">
        </a>
     </td>
-    <td align="center">
-      <img src="https://svg-banners.vercel.app/api?type=luminance&text1=✨%20Tionlab&width=300&height=150" alt="✨ Tionlab">
+    <td align="center">     
+       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pkfzjfbpug2o5p4ri6o42desvm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="tionlab's Spotify profile">
     </td>
   </tr>
 </table>
