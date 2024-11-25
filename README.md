@@ -16,12 +16,12 @@
 #### 사용 언어
 > Python / Javascript / Arduino / C / Go / Git
 
-[![사용 언어](https://skillicons.dev/icons?i=py,flask,selenium,opencv,qt,tensorflow,js,ts,nodejs,react,nextjs,tailwind,firebase,express,mongodb,discordjs,html,css,electron,arduino,c,go,git,md,regex&perline=5)](about:black)
+[![사용 언어](https://skillicons.dev/icons?i=py,flask,selenium,opencv,qt,tensorflow,js,ts,nodejs,react,nextjs,tailwind,firebase,express,mongodb,discordjs,html,css,electron,arduino,c,go,git,md,regex&perline=6)](about:black)
 
 #### 사용 툴 / OS
 > Vscode / Docker / Npm / Bun / Ubuntu / Raspberrypi
 
-[![사용 툴](https://skillicons.dev/icons?i=vscode,docker,github,anaconda,npm,bun,bash,powershell,ubuntu,raspberrypi,windows,heroku,netlify,replit,vercel,blender,ae,ps,pr,notion&perline=5)](about:black)
+[![사용 툴](https://skillicons.dev/icons?i=vscode,docker,github,anaconda,npm,bun,bash,powershell,ubuntu,raspberrypi,windows,heroku,netlify,replit,vercel,blender,ae,ps,pr,notion&perline=7)](about:black)
 
 #### 학습 중
 > Java / Kotlin / Rust
