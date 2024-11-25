@@ -6,14 +6,13 @@
 [![tionlab02@gmail.com](https://img.shields.io/static/v1?label=tionlab02@gmail.com&message=%20&color=yellow&logo=gmail&style=flat-square&logoColor=white)](mailto:tionlab02@gmail.com)  
    
 # Tation 타티온
-<center>
+<p align="center">
   <img src="assets/tation_main.png" width="200" />
   <br/>
   👨‍💻 웹/프로그램/서버 <strong>소프트웨어 개발자</strong>  & <strong>화이트햇</strong><br/>
   👨🏻‍🎓 <strong>2006년생</strong>, 만 18세<br/>
   📦 외주는 이메일 문의.
-</center>  
-
+</p>
 
 #### 사용 언어
 > Python / Javascript / Arduino / C / Go / Git
@@ -40,9 +39,8 @@
 
 ![tionlab's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tionlab&langs_count=8&layout=compact&theme=radical)
 
-<center>
+<p align="center">
   <img src="assets/with.png" width="250" />
   <br/>
   © 2024 tionlab Est. 2018
-</center>  
-
+</p>
