@@ -1,6 +1,5 @@
 # ✨ Tion Software Laboratory ✨  
 ## 🔮Unleashing Power of Creation <br/> 자유로운 상상을 간단하지만 정교하게 현실화.
-[![Main](assets/main.png)](about:black)
 
 [![tionlab01@gmail.com](https://img.shields.io/static/v1?label=tionlab01@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:tionlab01@gmail.com)  
 [![tionlab02@gmail.com](https://img.shields.io/static/v1?label=tionlab02@gmail.com&message=%20&color=yellow&logo=gmail&style=flat-square&logoColor=white)](mailto:tionlab02@gmail.com)  
